@@ -1,0 +1,31 @@
+# Blender MTL File: 'noodle_wheel.blend'
+# Material Count: 3
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl blinn1SG
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.433578 0.006326
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/michellehl/Documents/ARStudio/Noodle/kraftNoodle_01_noodle_MAT_bakedColor_diffuse.png
+
+newmtl blinn1SG.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.270086 0.281371
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
